@@ -1,2 +1,2 @@
 # objectTracking
-Follow object movement for physic class using opencv
+Follow object movement to study object dynamics for physic class using opencv
